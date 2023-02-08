@@ -1,0 +1,16 @@
+id: IAB75D6BD
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:48:40.924790
+last_modified: 2023-02-08 14:48:40.924917
+source_metadata:
+  title: Akṣayamatinirdeśa
+  language: zh
+bases:
+  8AF9:
+    base_file: 8AF9.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
